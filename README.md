@@ -1,2 +1,2 @@
 # tmdb-eda-assignment
-EDA Workshop
+A simple data pipeline and exploratory data analysis project using the TMDB API and pandas.
